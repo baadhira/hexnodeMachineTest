@@ -1,9 +1,9 @@
 # About this project
 
-This is clone repo of https://www.hexnode.com/solutions/hexnode-kiosk/ website 
+This is clone  of https://www.hexnode.com/solutions/hexnode-kiosk/ website 
 
 # Technologies used
-ReactJs, CSS
+ReactJs, CSS .\
 CSS is used primarily for all the sliding and styling , used Slick library for infinite scrolling feature
 
 
